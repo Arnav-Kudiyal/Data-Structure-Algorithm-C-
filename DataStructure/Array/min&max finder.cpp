@@ -2,7 +2,7 @@
 #include<climits>
 using namespace std;
 
-int main()
+int main() 
 {
     int index_largest = 0;
     int index_smallest = 0;
